@@ -1,0 +1,8 @@
+﻿  Basic Algebra Generator.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\customer\Desktop\Code\Visual Studio\Basic Algebra Generator\Basic Algebra Generator\Basic Algebra Generator.cpp(203): warning C4715: 'get_equ_ans': not all control paths return a value
+C:\Users\customer\Desktop\Code\Visual Studio\Basic Algebra Generator\Basic Algebra Generator\Basic Algebra Generator.cpp(339): warning C4715: 'display_equ': not all control paths return a value
+  All 216 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Basic Algebra Generator.vcxproj -> C:\Users\customer\Desktop\Code\Visual Studio\Basic Algebra Generator\Release\Basic Algebra Generator.exe
